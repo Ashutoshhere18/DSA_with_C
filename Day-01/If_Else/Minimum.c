@@ -1,3 +1,5 @@
+// WAP to Find min. no. from given 2 no. using if else.
+
 #include<stdio.h>
 
 void main(){
