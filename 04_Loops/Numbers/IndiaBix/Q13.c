@@ -1,0 +1,14 @@
+//13. Look at this series: 2, 4, 6, 8, 10, ... What number should come next?
+
+#include <stdio.h>
+
+void main() {
+    int num=2;
+    int i;
+
+    for(i = 1; i <= 6; i++) {
+        printf("%d ", num);
+        num+=2;
+    }
+
+}
