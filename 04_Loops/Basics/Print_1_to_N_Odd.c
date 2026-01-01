@@ -1,34 +1,38 @@
-//Q4. WAP to print N to 1.
+//Q5. WAP to print 1 to N Only Odd
 
 #include<stdio.h>
 
 void main(){
-    int n, i=1;
+    int n, i;
 
     printf("Enter value of n: ");
     scanf("%d", &n);
-    int temp=n;
+
     /* Using for loop */
     printf("\nUsing for loop:\n");
-    for(n; n>= i; n--){
-        printf("%d ", n);
+    for(i = 1; i <= n; i++){
+        if(i%2==1){
+          printf("%d ", i);
+        }
     }
 
     /* Using while loop */
     printf("\n\nUsing while loop:\n");
-    n=temp;
     i = 1;
-    while(n>=i){
-        printf("%d ", n);
-        n--;
+    while(i <= n){
+         if(i%2==1){
+          printf("%d ", i);
+        }
+        i++;
     }
 
     /* Using do-while loop */
     printf("\n\nUsing do-while loop:\n");
-    n=temp;
     i = 1;
     do{
-        printf("%d ", n);
-        n--;
-    }while(n>=i);
+        if(i%2==1){
+          printf("%d ", i);
+        }
+        i++;
+    }while(i <= n);
 }

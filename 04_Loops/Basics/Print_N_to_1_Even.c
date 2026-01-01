@@ -1,17 +1,19 @@
-//Q4. WAP to print N to 1.
+//Q6. WAP to print N to 1 Only Even.
 
 #include<stdio.h>
 
 void main(){
     int n, i=1;
-
+   
     printf("Enter value of n: ");
     scanf("%d", &n);
-    int temp=n;
+     int temp=n;
     /* Using for loop */
     printf("\nUsing for loop:\n");
     for(n; n>= i; n--){
-        printf("%d ", n);
+       if(n%2==0){
+         printf("%d ", n);
+       }
     }
 
     /* Using while loop */
@@ -19,7 +21,9 @@ void main(){
     n=temp;
     i = 1;
     while(n>=i){
-        printf("%d ", n);
+         if(n%2==0){
+         printf("%d ", n);
+       }
         n--;
     }
 
@@ -28,7 +32,9 @@ void main(){
     n=temp;
     i = 1;
     do{
-        printf("%d ", n);
+         if(n%2==0){
+         printf("%d ", n);
+       }
         n--;
     }while(n>=i);
 }
