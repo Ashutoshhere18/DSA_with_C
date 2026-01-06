@@ -47,6 +47,8 @@ void main(){
 ---
 
 ## 📷 Output Screenshot
+<img width="729" height="664" alt="Screenshot 2026-01-05 215245" src="https://github.com/user-attachments/assets/0e390b5a-565f-4aab-a60e-e7d3f9ea51c0" />
+
 
 
 
