@@ -34,7 +34,6 @@ void main(){
 ```
 
 ---
-
 ## 📝 Input
 
 The program prompts the user to enter **two angles**:
@@ -42,17 +41,13 @@ The program prompts the user to enter **two angles**:
 ```
 Enter first and second angle: 60 50
 ```
-
 ---
-
 ## 🎯 Output
 
 ```
 Third angle of the triangle = 70 ° 🔺
 ```
-
-> **Note:** Replace the screenshot below with your own output after running the program.
-
 Output Screenshot🖼️
+<img width="853" height="622" alt="Screenshot 2026-01-07 095753" src="https://github.com/user-attachments/assets/504a7c67-7d2b-4e1c-a1f3-47ef5b00d7fd" />
 
 ---
