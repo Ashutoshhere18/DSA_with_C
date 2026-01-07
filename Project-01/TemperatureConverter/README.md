@@ -49,5 +49,6 @@ Temperature in Fahrenheit = 98.60 °F 🌡️
 ```
 
 Output Screenshot🖼️
+<img width="851" height="622" alt="Screenshot 2026-01-07 095435" src="https://github.com/user-attachments/assets/9e6a376e-2e50-41ac-9abb-555f2d39737e" />
 
 ---
