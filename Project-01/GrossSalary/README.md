@@ -30,7 +30,8 @@ Gross Salary = 67500.00 💰
 ```
 
 >
-![Output Screenshot](path_to_screenshot.png) 🖼️
+Output Screenshot 🖼️
+><img width="844" height="629" alt="Screenshot 2026-01-07 094942" src="https://github.com/user-attachments/assets/e4451808-e762-48c8-b0b1-95614b41bbdd" />
 
 ---
 
