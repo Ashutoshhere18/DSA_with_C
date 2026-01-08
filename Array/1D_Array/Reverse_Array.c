@@ -1,4 +1,5 @@
-// WAP to get & print 1D array of N elements.
+// Write a program in C to read n number of values in an array 
+// and display them in reverse order.
 
 #include<stdio.h>
 
@@ -16,8 +17,14 @@ void main(){
       scanf("%d",&arr[i]);
     }
   // For display
+  printf("\nArray before Reversing:\n");
    for(i=0;i<n;i++){
      printf("%d,",arr[i]);
    }
   
+//    for reverse 2,4,5,6
+printf("\n Reversed Array:\n");
+ for(i=n-1;i>=0;i--){
+    printf("%d,",arr[i]);
+ }
 }

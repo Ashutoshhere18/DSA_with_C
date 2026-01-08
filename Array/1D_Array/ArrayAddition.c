@@ -1,4 +1,6 @@
-// wap to perform the addition operation of two 
+// Write a Program to perform the addition operation of 
+// two 1D arrays & and store it in another array. 
+// Keep in mind that both array sizes must be the same.
 
 
 #include<stdio.h>
