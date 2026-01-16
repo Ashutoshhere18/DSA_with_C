@@ -49,4 +49,5 @@ The program takes the user's score, calculates the grade using a **ternary opera
 ---
 
 ## 🖥️ Sample Output
+<img width="845" height="661" alt="Screenshot 2026-01-16 104855" src="https://github.com/user-attachments/assets/06b350dd-140a-4b9b-bc2e-42567c718020" />
 
