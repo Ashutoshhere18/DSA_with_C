@@ -38,6 +38,7 @@ In a transpose operation:
 ---
 
 ## 🖼️ Output Screenshot  
+<img width="837" height="664" alt="Screenshot 2026-01-16 112002" src="https://github.com/user-attachments/assets/6a7cb8e9-b590-4efb-9d67-87c060dfa979" />
 
 
 ```
