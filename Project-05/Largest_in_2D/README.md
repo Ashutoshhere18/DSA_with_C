@@ -17,13 +17,9 @@ This C program takes the **number of rows and columns** of a 2D array from the u
 
 
 ## 🖼️ Output Screenshot
+<img width="839" height="663" alt="Screenshot 2026-01-16 110655" src="https://github.com/user-attachments/assets/9a3503c3-8c24-436a-a222-190b1b5a3276" />
 
-(Add your program output screenshot here)
 
-Example:
-
-```
-![Output Screenshot](output.png)
 ```
 
 ---
