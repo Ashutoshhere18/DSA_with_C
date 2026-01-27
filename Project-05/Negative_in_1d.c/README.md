@@ -17,6 +17,7 @@ This is a simple C program that takes the **size of a 1D array** and its **eleme
 
 
 ## 🖼️ Output Screenshot
+<img width="836" height="659" alt="Screenshot 2026-01-16 110203" src="https://github.com/user-attachments/assets/16707829-350f-4c5d-b0a9-ad1c5aa4f4d5" />
 
 
 ---

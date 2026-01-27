@@ -38,6 +38,7 @@ This operation is useful in data analysis, matrix operations, and basic numerica
 ---
 
 ## 🖼️ Output Screenshot  
+<img width="840" height="664" alt="Screenshot 2026-01-16 112136" src="https://github.com/user-attachments/assets/13335af5-7b26-4e10-b6ef-718359e8a2ca" />
 
 
 ---
