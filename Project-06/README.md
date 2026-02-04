@@ -56,8 +56,13 @@ Press 0 for exit
 ---
 
 ## 📸 Screenshots
+<img width="940" height="662" alt="Screenshot 2026-01-27 111939" src="https://github.com/user-attachments/assets/a5e3ecbb-da7e-4032-9cb8-b96a0d0f59de" />
 
 
+<img width="939" height="660" alt="Screenshot 2026-01-27 112021" src="https://github.com/user-attachments/assets/cc533b37-de1d-4b3d-be50-67a38b296e08" />
+
+
+<img width="940" height="665" alt="Screenshot 2026-01-27 112042" src="https://github.com/user-attachments/assets/4fa0e4c1-1fc4-4ade-b9ac-6c5453b80af3" />
 
 ---
 
