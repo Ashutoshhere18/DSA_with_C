@@ -21,6 +21,7 @@ This helps in understanding:
 ## 📸 Screenshots
 
 ### 🔹 Program Execution
+<img width="837" height="656" alt="Screenshot 2026-02-04 114259" src="https://github.com/user-attachments/assets/ab4c865f-3406-4689-9683-43814eb5bbe5" />
 
 
 ---
