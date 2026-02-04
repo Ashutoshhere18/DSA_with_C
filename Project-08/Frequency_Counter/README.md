@@ -24,6 +24,7 @@ The program is implemented **without using any string functions**, making it eas
 ---
 
 ## 📸 Screenshots
+<img width="678" height="634" alt="Screenshot 2026-02-04 212718" src="https://github.com/user-attachments/assets/6fe2ab81-53d1-40a7-b58a-b32281170253" />
 
 
 ---
