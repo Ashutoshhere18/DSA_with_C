@@ -16,6 +16,7 @@ Develop a program to find the **cube of all elements of a given 2D array** using
 ---
 
 ## 📸 Screenshots
+<img width="838" height="671" alt="Screenshot 2026-02-04 120423" src="https://github.com/user-attachments/assets/1186530a-6db8-413c-a573-1094a1e58381" />
 
 
 ---
